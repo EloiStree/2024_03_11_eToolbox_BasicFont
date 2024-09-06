@@ -1,12 +1,10 @@
 
 {                                                                   
-            "name": "be.eloistree.etoolboxbasicfontEditor",          
-    "references": ["be.eloistree.etoolboxbasicfont"
+            "name": "be.elab.etoolboxbasicfont",          
+    "references": [
 ],                                                              
     "optionalUnityReferences": [],                                  
-    "includePlatforms": [                                           
-        "Editor"                                                    
-    ],                                                              
+    "includePlatforms": [],                                                  
     "excludePlatforms": [],                                         
     "allowUnsafeCode": false,                                       
     "overrideReferences": false,                                    
